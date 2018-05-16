@@ -1,0 +1,2 @@
+# aide-code
+pense bete
